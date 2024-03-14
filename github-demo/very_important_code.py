@@ -1,5 +1,5 @@
 
 
-def say_hello(name: str) -> str:
+def say_hi(name: str) -> str:
     hello = f"hello {name}"
     return hello
