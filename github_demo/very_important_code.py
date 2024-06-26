@@ -1,5 +1,5 @@
 
 
 def say_hi(name: str) -> str:
-    hello = f"hello {name}"
+    hello = f"good bye {name}"
     return hello
